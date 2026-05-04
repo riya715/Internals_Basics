@@ -1,0 +1,7 @@
+{
+  "registered_model_name": "skydrop-flight-time-min-predictor",
+  "version": 1,
+  "run_id": "f75b8fd1d7da403f9c031d56804d6839",
+  "source_metric": "mae",
+  "source_metric_value": 4.3969
+}

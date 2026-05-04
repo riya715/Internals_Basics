@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1777870910105
+current_stage: None
+description: null
+last_updated_timestamp: 1777870910105
+name: skydrop-flight-time-min-predictor
+run_id: f75b8fd1d7da403f9c031d56804d6839
+run_link: null
+source: file:///Users/riyakumari/Desktop/MLOPs_Lab_CIE/Internals_Basics/MLOPs_Lab_CIE/mlruns/198965182199169093/f75b8fd1d7da403f9c031d56804d6839/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/riyakumari/Desktop/MLOPs_Lab_CIE/Internals_Basics/MLOPs_Lab_CIE/mlruns/198965182199169093/f75b8fd1d7da403f9c031d56804d6839/artifacts/model
+user_id: null
+version: 1
