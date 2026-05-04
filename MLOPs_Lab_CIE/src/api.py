@@ -40,11 +40,20 @@ class FlightInput(BaseModel):
     altitude_m:       float = Field(..., ge=10.0, le=120.0,description="Altitude in meters (10–120)")
 
 class PredictionResponse(BaseModel):
+    model_config = {"protected_namespaces": ()}
     prediction_min: float
     model_used:     str
     timestamp:      float
 
 # ── endpoints ──────────────────────────────────────────────────────────
+@app.get("/")
+def root():
+    return {
+        "message": "SkyDrop Flight Time API",
+        "health_endpoint": "/heartbeat",
+        "predict_endpoint": "/predict"
+    }
+
 @app.get("/heartbeat")
 def heartbeat():
     return {"status": "operational", "service": "SkyDrop API"}
