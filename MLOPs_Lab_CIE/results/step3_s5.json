@@ -1,13 +1,13 @@
 {
   "total_predictions": 50,
-  "mean_prediction": 21.7617,
+  "mean_prediction": 23.2149,
   "drift_detected": true,
   "alerts": [
     {
       "feature": "wind_speed_kmph",
       "train_mean": 14.74,
-      "live_mean": 22.29,
-      "shift": 7.55,
+      "live_mean": 22.41,
+      "shift": 7.67,
       "threshold": 6.14,
       "status": "ALERT"
     }
