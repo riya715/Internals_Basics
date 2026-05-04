@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/riyakumari/Desktop/MLOPs_Lab_CIE/Internals_Basics/MLOPs_Lab_CIE/mlruns/198965182199169093/9fdef2aa7d244a19aeb323efdd5577b0/artifacts
+end_time: 1777869105915
+entry_point_name: ''
+experiment_id: '198965182199169093'
+lifecycle_stage: active
+run_id: 9fdef2aa7d244a19aeb323efdd5577b0
+run_name: RandomForest_Tuned
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777869103280
+status: 3
+tags: []
+user_id: riyakumari

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/riyakumari/Desktop/MLOPs_Lab_CIE/Internals_Basics/MLOPs_Lab_CIE/mlruns/198965182199169093/1705b3e7ea5946bcbcb8c68e831130c4/artifacts
+end_time: 1777868064600
+entry_point_name: ''
+experiment_id: '198965182199169093'
+lifecycle_stage: active
+run_id: 1705b3e7ea5946bcbcb8c68e831130c4
+run_name: SVR_Pipeline
+run_uuid: 1705b3e7ea5946bcbcb8c68e831130c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777868061877
+status: 3
+tags: []
+user_id: riyakumari

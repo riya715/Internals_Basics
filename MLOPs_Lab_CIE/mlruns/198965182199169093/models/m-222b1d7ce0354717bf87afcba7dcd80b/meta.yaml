@@ -1,0 +1,10 @@
+artifact_location: file:///Users/riyakumari/Desktop/MLOPs_Lab_CIE/Internals_Basics/MLOPs_Lab_CIE/mlruns/198965182199169093/models/m-222b1d7ce0354717bf87afcba7dcd80b/artifacts
+creation_timestamp: 1777869103359
+experiment_id: '198965182199169093'
+last_updated_timestamp: 1777869105914
+model_id: m-222b1d7ce0354717bf87afcba7dcd80b
+model_type: null
+name: model
+source_run_id: 9fdef2aa7d244a19aeb323efdd5577b0
+status: 2
+status_message: null
